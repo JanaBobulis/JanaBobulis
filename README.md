@@ -1,11 +1,18 @@
-### Hi there 👋
+### 👋 I'm Jana 
+
+- 🔭.&nbsp; I’m currently working on landing my first full-time job as a FrontEnd Developer
+- 🌱 &nbsp; I’m currently learning JavaScript Algorithms and Data Structures on freeCodeCamp
+- 👯 &nbsp; Feel free to contact me if you wish to collaborate
+- 📫 &nbsp; How to reach me: jana.bobulis@hotmail.com
+- 😄 &nbsp; Pronouns: she/her
+
 
 <!--
 **JanaBobulis/JanaBobulis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
