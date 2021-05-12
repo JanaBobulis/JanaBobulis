@@ -1,4 +1,4 @@
-### 👋 I'm Jana 
+### 👋 &nbsp; I'm Jana 
 
 - 🔭.&nbsp; I’m currently working on landing my first full-time job as a FrontEnd Developer
 - 🌱 &nbsp; I’m currently learning JavaScript Algorithms and Data Structures on freeCodeCamp
