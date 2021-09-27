@@ -1,6 +1,6 @@
 ### 👋 &nbsp; I'm Jana 
 
-- 🔭 &nbsp; I’m currently working on landing my first full-time job as a FrontEnd Developer. I am a part-time FrontEnd Developer volunteering at Humanitarian Operations and am currently helping with the build of the shop.
+- 🔭 &nbsp; I’m a full-time Junior Developer.
 - 🌱 &nbsp; I’m currently learning JavaScript Algorithms and Data Structures on freeCodeCamp
 - 👯 &nbsp; Feel free to contact me if you wish to collaborate
 - 📫 &nbsp; How to reach me: jana.bobulis@hotmail.com
