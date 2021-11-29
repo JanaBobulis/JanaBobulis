@@ -1,7 +1,7 @@
 ### 👋 &nbsp; I'm Jana 
 
 - 🔭 &nbsp; I’m a full-time Junior Developer.
-- 🌱 &nbsp; I’m currently learning JavaScript Algorithms and Data Structures on freeCodeCamp
+- 🌱 &nbsp; I’m currently learning JavaScript Algorithms and Data Structures on freeCodeCamp as well as completing 12-week CS50's Mobile App Development with React Native course
 - 👯 &nbsp; Feel free to contact me if you wish to collaborate
 - 📫 &nbsp; How to reach me: jana.bobulis@hotmail.com
 - 😄 &nbsp; Pronouns: she/her
